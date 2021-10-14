@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84700316/137394549-5ac1ecb2-7958-429f-9745-b16a04ee1ad7.png" width=300px>
+  <img src="https://user-images.githubusercontent.com/84700316/137394549-5ac1ecb2-7958-429f-9745-b16a04ee1ad7.png" width=200px>
 </p>
 
 <h1 align="center"> Medical journal <h1>
