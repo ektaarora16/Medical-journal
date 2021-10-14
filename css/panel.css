@@ -1,0 +1,132 @@
+*
+{
+    font-family: 'Lato', sans-serif;
+}
+body 
+{
+    margin: 0;
+    overflow-x: hidden;
+}
+  
+  .sidebar 
+  {
+    margin-top: 118px;
+    margin-left: -15px;
+    padding: 0;
+    width: 200px;
+    background-color: #0079bf;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  .sidebar a 
+  {
+    display: block;
+    color: #fff;
+    padding: 16px;
+    text-decoration: none;
+  }
+   
+  .sidebar a.active 
+  {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .sidebar a:hover:not(.active) 
+  {
+    background-color: #555;
+    color: white;
+  }
+  /* div.content 
+  {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+  } */
+  .button 
+  {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.2), 0 10px 30px 0 rgba(0,0,0,0.19);
+    position: relative;
+    top: 140px;
+    left: 220px;
+    margin: 10px;
+    height: 40vh;
+  }
+  .button:hover
+  {
+    background-color: #fff; 
+    color: #000;
+  }
+  @media screen and (max-width: 1600px) 
+  {
+    .button
+    {
+      position: relative;
+      left: 176px;
+    }
+  }
+  @media screen and (max-width: 1190px) 
+  {
+    .button
+    {
+      position: relative;
+      left: 245px;
+    }
+  }
+  @media screen and (max-width: 987px) 
+  {
+    .button
+    {
+      position: relative;
+      left: 190px;
+    }
+  }
+  @media screen and (max-width: 768px) 
+  {
+    .sidebar 
+    {
+      width: 107%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+  }
+  @media screen and (max-width: 768px) 
+  {
+    .button
+    {
+      position: relative;
+      top: 10px;
+      left: -8px;
+    }
+  }
+  @media screen and (max-width: 400px) 
+  {
+    .sidebar a 
+    {
+      text-align: center;
+      float: none;
+    }
+  }
+
+
+
+
+  
+
+  

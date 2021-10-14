@@ -1,0 +1,11 @@
+
+.icon-logout:before { content: '\e800'; } /* '' */
+.icon-desktop:before { content: '\e801'; } /* '' */
+.icon-accessibility:before { content: '\e802'; } /* '' */
+.icon-pencil:before { content: '\e803'; } /* '' */
+.icon-user-add:before { content: '\e804'; } /* '' */
+.icon-login:before { content: '\e805'; } /* '' */
+.icon-hospital:before { content: '\e821'; } /* '' */
+.icon-tasks:before { content: '\f0ae'; } /* '' */
+.icon-low-vision:before { content: '\f2a8'; } /* '' */
+.icon-user-o:before { content: '\f2c0'; } /* '' */

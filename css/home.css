@@ -1,0 +1,40 @@
+*
+{
+    font-family: 'Lato', sans-serif;
+}
+body 
+{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+}
+
+.carousel 
+{
+  margin-bottom: 4rem;
+}
+
+.carousel-caption 
+{
+  bottom: 14rem;
+  z-index: 10;
+}
+
+.carousel-item 
+{
+  height: 46rem;
+  background-color: #1abc9c;
+}
+@media (min-width: 40em) 
+{
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+}
+
+
+  
+
+  
