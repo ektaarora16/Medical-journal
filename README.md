@@ -22,3 +22,8 @@ Thanks to our diary, you will be able to quickly and intuitively manage your pat
 <img src="https://i.imgur.com/0zZDs0c.png" alt="screenshot" width="400"/>
 </div>
 
+## Contributors :
+  1. Aaquib Ali
+  2. Shrejal Singh
+  3. Ekta Arora
+  4. Ruthvik
